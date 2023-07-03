@@ -1,0 +1,29 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+    .big-Container{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    gap:3rem;
+}
+.images{
+width: 70px;
+height: 70px;
+border-radius: 50%;
+}
+
+.titles{
+font-size: 15px;
+font-weight: bold;
+text-align: center;
+}
+.btn-img{
+    border: none;
+    background-color: white;
+}
+.btn-img:hover{
+    background-color: #eee;
+}

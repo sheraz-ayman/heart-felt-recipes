@@ -1,0 +1,111 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Bolognese",
+      "image": "https://th.bing.com/th/id/OIP.IIp3iRcVeCbC1U0TnWViFAHaFj?pid=ImgDet&rs=1",
+      "category": "Main Course",
+      "description": "Classic Italian pasta dish with a rich tomato-based meat sauce.",
+      "ingredients": [
+        "300g ground beef",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "400g canned tomatoes",
+        "1/4 cup tomato paste",
+        "1/2 cup red wine",
+        "1 tsp dried oregano",
+        "1 tsp dried basil",
+        "Salt and pepper to taste",
+        "250g spaghetti",
+        "Grated Parmesan cheese for serving"
+      
+      ],
+      "directions": [
+        "Heat olive oil in a large skillet over medium heat.",
+        "Add chopped onions and minced garlic, sauté until fragrant.",
+        "Add ground beef, cook until browned.",
+        "Stir in canned tomatoes, tomato paste, red wine, dried oregano, dried basil, salt, and pepper.",
+        "Simmer the sauce for about 30 minutes, stirring occasionally.",
+        "Meanwhile, cook spaghetti in a separate pot according to package instructions.",
+        "Serve the spaghetti with the Bolognese sauce, topped with grated Parmesan cheese."
+      ],
+      "Comments": []
+    },
+    {
+      "id": 2,
+      "title": "Chicken Tikka Masala",
+      "image": "https://th.bing.com/th/id/OIP.Ywe5SsuqSNgYNTqXCvw47gHaJt?pid=ImgDet&rs=1",
+      "category": "Main Course",
+      "description": "Tender chicken pieces cooked in a creamy and aromatic tomato-based sauce.",
+      "ingredients": [
+        "500g boneless chicken, cut into pieces",
+        "1 cup plain yogurt",
+        "2 tbsp lemon juice",
+        "2 tbsp Tikka Masala spice mix",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 can (400g) diced tomatoes",
+        "1 cup heavy cream",
+        "Salt to taste",
+        "Fresh cilantro for garnish"
+      ],
+      "directions": [
+        "In a bowl, mix yogurt, lemon juice, and Tikka Masala spice mix.",
+        "Marinate chicken pieces in the mixture for at least 1 hour.",
+        "In a large skillet, melt butter over medium heat.",
+        "Add chopped onions and minced garlic, sauté until softened.",
+        "Add marinated chicken pieces, cook until browned.",
+        "Stir in diced tomatoes and simmer for 10 minutes.",
+        "Add heavy cream and salt, simmer for an additional 5 minutes.",
+        "Garnish with fresh cilantro and serve with rice or naan bread."
+      ],
+      "Comments": []
+    },
+    {
+      "id": 3,
+      "title": "Mansaf",
+      "image": "https://mediaindia.eu/wp-content/uploads/2017/03/mansaf-jordanian-food.jpg",
+      "category": "Main Course",
+      "description": "A delicious dip made from mashed avocados, tomatoes, onions, and lime juice.",
+      "ingredients": [
+        "2 ripe avocados",
+        "1 tomato, diced",
+        "1/4 cup red onion, finely chopped",
+        "1/4 cup fresh cilantro, chopped",
+        "1 jalapeño pepper, seeded and minced",
+        "2 tbsp lime juice",
+        "Salt and pepper to taste",
+        "Tortilla chips for serving"
+      ],
+      "directions": [
+        "Cut avocados in half, remove the pit, and scoop out the flesh into a bowl.",
+        "Mash the avocados with a fork until desired consistency.",
+        "Add diced tomatoes, chopped red onion, minced jalapeño, and chopped cilantro to the bowl.",
+        "Mix in lime juice and season with salt and pepper.",
+        "Serve with tortilla chips and enjoy!"
+      ],
+      "Comments": []
+    },
+    {
+      "title": "cheesecake",
+      "image": "https://th.bing.com/th/id/OIP.NMK81ANKbms9e1WwjnxVPgHaD4?pid=ImgDet&rs=1",
+      "category": "dessert",
+      "description": "cherry cheesecake",
+      "ingredients": "1 stick butterfoad;flgklkjhgjkl;lhklj;'",
+      "directions": "jhweeewq",
+      "id": 5,
+      "Comments": []
+    },
+    {
+      "title": "Malaq",
+      "image": "https://i.pinimg.com/originals/d0/0c/ac/d00cacdde4278eede878f2325a97910c.jpg",
+      "category": "main dish",
+      "description": "mallaq is a jordanian dish",
+      "ingredients": "mallaq lia",
+      "directions": "put the lia and then the mallaq",
+      "Comments": [],
+      "id": 6
+    }
+  ]
+}
